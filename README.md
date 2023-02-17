@@ -62,7 +62,7 @@ Berikut cara untuk menjalankan program pada git local.
 
  M Alfin Fernanda :
 
-  [![GitHub](https://img.shields.io/badge/-Alfin-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agungcahya122) 
+  [![GitHub](https://img.shields.io/badge/-Alfin-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfin-nandha) 
 
  M Dhomanhuri Malik Ilyas:
 
