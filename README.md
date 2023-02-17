@@ -66,7 +66,7 @@ Berikut cara untuk menjalankan program pada git local.
 
  M Dhomanhuri Malik Ilyas:
 
-  [![GitHub](https://img.shields.io/badge/-Dhoman-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agungcahya122) 
+  [![GitHub](https://img.shields.io/badge/-Dhoman-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhomanhuri) 
 
 M Agung Cahya D:
 
