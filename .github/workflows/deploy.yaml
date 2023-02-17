@@ -17,7 +17,7 @@ jobs:
           key: ${{ secrets.KEY }}
           port: ${{ secrets.PORT }}
           script: |
-            cd /home/ubuntu/threeMovie
+            cd /home/ubuntu/threeMovie-frontend
             sudo git pull origin main
             sh stop.sh
             sh build.sh
