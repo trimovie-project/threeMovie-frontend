@@ -24,7 +24,17 @@ TreeMovie adalah web penayangan film yang didalamnya kita bisa melihat beberapa 
  
 <div align="center">
 
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=pink)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
+  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaisyUi-FFFF00?style=for-the-badge&logo=daisyui&logoColor=white" />
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+  <img src="https://img.shields.io/badge/Sweet Alert-7D4698?style=for-the-badge&logo=Sweet-Alert&logoColor=white" />
 </div>
+
 </br >
 
 # Getting Started
@@ -51,17 +61,6 @@ Berikut cara untuk menjalankan program pada git local.
 
 # 🤖 Author
 
- M Alfin Fernanda :
-
-  [![GitHub](https://img.shields.io/badge/-Alfin-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfin-nandha) 
-
- M Dhomanhuri Malik Ilyas:
-
-  [![GitHub](https://img.shields.io/badge/-Dhoman-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhomanhuri) 
-
-M Agung Cahya D:
-
-  [![GitHub](https://img.shields.io/badge/-Agung-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/agungcahya122) 
 
   <br />
   
