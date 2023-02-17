@@ -1,0 +1,1 @@
+sudo docker run -d --hostname threemovie-frontend --name threemovie-frontend -p 7000:5173 --restart=always threemovie-frontend
