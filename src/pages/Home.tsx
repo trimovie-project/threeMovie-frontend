@@ -4,8 +4,10 @@ import Layout from "../components/Layout";
 const Home = () => {
   return (
     <Layout>
-      <Sidebar />
-      <div className="text-text1 text-[36px] font-bold">TEST HOME</div>
+      <div className="flex">
+        <Sidebar />
+        <div className="text-text2 text-[36px] font-bold">TEST HOME</div>
+      </div>
     </Layout>
   );
 };
